@@ -1,0 +1,42 @@
+*{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
+
+#name{
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+#tagline{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.links{
+    font-size: 30px;
+    font-style: italic;
+}
+
+#basic{
+    font-size: 25px;
+    text-align: left;
+}
+
+.heading{
+    font-size: 35px;
+}
+
+.ed_head, .tech_head{
+    font-size: 30px;
+}
+
+.ed_body, .tech_body{
+    font-size: 25px;
+    display: table;
+    margin: 0 auto;
+}
+
+
+
